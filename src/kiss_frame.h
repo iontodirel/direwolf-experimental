@@ -87,7 +87,7 @@ struct kissport_status_s {
 	// TODO:  Should this be moved to direwolf.h so max number of audio devices
 	// client apps are in the same place?
 
-#define MAX_NET_CLIENTS 3
+#define MAX_NET_CLIENTS 10
 
 	int client_sock[MAX_NET_CLIENTS];
 				/* File descriptor for socket for */
