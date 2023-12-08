@@ -178,7 +178,7 @@
  */
 // FIXME:  Put in direwolf.h rather than in .c file. Change name to reflect AGW vs KISS. Update user guide 5.7.
 
-#define MAX_NET_CLIENTS 3
+#define MAX_NET_CLIENTS 6
 
 static int client_sock[MAX_NET_CLIENTS];	
 					/* File descriptor for socket for */
