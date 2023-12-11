@@ -166,7 +166,7 @@ static char * ia_to_text (int  Family, void * pAddr, char * pStringBuf, size_t S
  *
  *---------------------------------------------------------------*/
 
-#define MAX_CLIENTS 10
+#define MAX_CLIENTS 6
 
 /* Obtained from the command line. */
 
